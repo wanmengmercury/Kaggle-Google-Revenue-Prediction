@@ -16,7 +16,7 @@ The project includes 3 parts:
 - Among ridge regression, lasso regression, random forest, and gradient boositng models, which model should I use for the final prediction?
 
 3. prediction with the gradient boosting model
-- how to tune parameters of gradient boositng model to improve prediction precision?
+- how to tune parameters of gradient boosting model to improve prediction precision?
 
 The "data" folder contains the cleaned data for further analysis.
 
