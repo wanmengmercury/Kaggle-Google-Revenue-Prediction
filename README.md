@@ -1,6 +1,7 @@
 # Kaggle-Google-Revenue-Prediction
 
 Data source: https://www.kaggle.com/c/ga-customer-revenue-prediction/data
+
 The training and testing data used in this project are cleaned through the tran_v2.csv and test_v2.csv in the above link. 
 
 
