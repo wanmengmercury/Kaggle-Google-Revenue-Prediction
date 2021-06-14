@@ -41,7 +41,7 @@ The project includes 3 parts:
 2. The training and testing data used in this project are cleaned through the tran_v2.csv and test_v2.csv in the above link. 
 3. The cleaned data are kept in the [data](https://github.com/wanmengmercury/Kaggle-Google-Revenue-Prediction/tree/main/data) folder. 
 
-## Featured Notebooks/Analysis/Deliverables
+## Featured Analysis
 * [Correlation Analysis](https://github.com/wanmengmercury/Kaggle-Google-Revenue-Prediction/blob/main/Correlation%20Analysis.ipynb)
 * [Model Building](https://github.com/wanmengmercury/Kaggle-Google-Revenue-Prediction/blob/main/Model%20Building(Gradient%20Boosting).ipynb)
 * [Model Comparison](https://github.com/wanmengmercury/Kaggle-Google-Revenue-Prediction/blob/main/Model%20Comparison.ipynb)
