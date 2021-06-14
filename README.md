@@ -33,7 +33,7 @@ The project includes 3 parts:
 ## Needs of this project
 
 - data processing/cleaning
-- statistical modeling
+- machine learning modeling
 
 ## Getting Started
 
